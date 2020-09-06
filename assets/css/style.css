@@ -219,7 +219,7 @@ a:hover {
 }
 
 .navbar .nav-item .nav-link {
-  color: #444 !important;
+  color: #2b364c !important;
   font-size: 14px;
   font-weight: 500;
   transition: .3s all;
@@ -677,7 +677,7 @@ article {
 }
 
 .blog-content h2 a {
-  color: #444;
+  color: #2b364c;
   font-weight: 400;
   font-size: 30px;
 }
@@ -767,7 +767,7 @@ article {
 .sidebar .categories ul li span.badge {
   float: right;
   background: transparent;
-  color: #444;
+  color: #2b364c;
   border: 1px solid #dedede;
   border-radius: 0;
 }
