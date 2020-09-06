@@ -54,7 +54,7 @@ a:hover {
 .section-heading p {
   font-size: 14px;
   font-weight: 300;
-  color: #727272;
+  color: #2b364c;
   line-height: 20px;
 }
 
@@ -75,7 +75,7 @@ a:hover {
 }
 
 .subtitle-des {
-  color: #727272;
+  color: #2b364c;
   font-size: 14px;
   margin-bottom: 35px;
   font-weight: 300;
@@ -184,7 +184,7 @@ a:hover {
 }
 
 .company-description .block p {
-  color: #727272;
+  color: #2b364c;
 }
 
 /*=== MEDIA QUERY ===*/
@@ -412,7 +412,7 @@ a:hover {
 }
 
 #about .block p {
-  color: #727272;
+  color: #2b364c;
   font-size: 16px;
   line-height: 28px;
   margin-bottom: 35px;
